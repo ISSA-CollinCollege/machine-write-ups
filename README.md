@@ -1,6 +1,6 @@
 # machine-write-ups
 
-This space is used to showcase professional write ups for penetration tessting, digital forensics, and threat intelligence reports.
+This space is used to showcase professional write ups for penetration testing, digital forensics, and threat intelligence reports.
 
 ### Ethical Obligation Notice
 - All write ups must be made from machines/devices that have had explicit autorization granted. These include, but are not limited to: home labs, HAck the Box machines, and/or TryHackMe labs.
